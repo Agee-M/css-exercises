@@ -14,18 +14,16 @@
     background-color: #89ff89;
 }
 
-/* Groups */
-
 .num.three, 
 #num4  {
     font-size: 40px;
 }
 
-#num2, 
+
+/* #num2, 
 #num4 {
     font-family: 'Times New Roman', Times, serif;
-}
-
+} */
 
 /* .num, 
 #num2 {
